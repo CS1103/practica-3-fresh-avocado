@@ -1,0 +1,3 @@
+/Users/gabrielspranger/Desktop/POO II/PC3_Ejercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabrielspranger/Desktop/POO II/PC3_Ejercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielspranger/Desktop/POO II/PC3_Ejercicio2/cmake-build-debug/CMakeFiles/PC3_Ejercicio2.dir
