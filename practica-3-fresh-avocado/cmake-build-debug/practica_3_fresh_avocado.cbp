@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="practica_3_fresh_avocado"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="practica_3_fresh_avocado">
+				<Option output="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug/practica_3_fresh_avocado" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 practica_3_fresh_avocado"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="practica_3_fresh_avocado/fast">
+				<Option output="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug/practica_3_fresh_avocado" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 practica_3_fresh_avocado/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gabrielspranger/Desktop/POO\ II/practica-3-fresh-avocado/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/SumaMatrices.h">
+			<Option target="practica_3_fresh_avocado"/>
+		</Unit>
+		<Unit filename="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/main.cpp">
+			<Option target="practica_3_fresh_avocado"/>
+		</Unit>
+		<Unit filename="/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/cmake-build-debug/CMakeFiles/practica_3_fresh_avocado.dir

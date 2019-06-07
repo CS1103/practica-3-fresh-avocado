@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/SumaMatrices.h
+iostream
+-
+
+/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+SumaMatrices.h
+/Users/gabrielspranger/Desktop/POO II/practica-3-fresh-avocado/SumaMatrices.h
+
